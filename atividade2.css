@@ -1,0 +1,40 @@
+html{background-color: #171a21;
+    font-family: 'Wix Madefor Display', sans-serif;}
+
+main{text-align: center;
+    align-items: center;
+    }
+
+header{background-color: #0f0f0f;
+    color: #b8b6b4;
+}
+
+.clicaveis{margin-top: -55px;
+    margin-bottom: 30px;
+    padding-left: 250px;
+    text-align: center;}
+
+.opcoes_cima{
+    padding-right: 17px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;}
+
+.titulo{margin-top: 0px;}
+
+h1{font-size: 40px;
+    font-family: 'Wix Madefor Display', sans-serif;
+    text-align: center;
+    color: #b8b6b4;}
+
+
+h2{font-size: 25px;
+    font-family: 'Wix Madefor Display', sans-serif;    text-align: center;
+    color: #b8b6b4;}
+
+
+h3{font-family: 'Wix Madefor Display', sans-serif;    text-align: center;
+    color: #b8b6b4;}
+
+.paginasteam{text-decoration: none;
+    color: inherit;}
